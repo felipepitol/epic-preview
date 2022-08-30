@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <g id="Group_1220" data-name="Group 1220" transform="translate(-3046 -5002)">
+    <g id="Group_1219" data-name="Group 1219" transform="translate(2968.447 4706.446)">
+      <circle id="bg" cx="21" cy="21" r="21" transform="translate(77.553 295.553)" fill="#fff" opacity="0.557"/>
+      <circle id="bg-2" data-name="bg" cx="16" cy="16" r="16" transform="translate(82.553 300.553)" fill="#84282b" opacity="0.904"/>
+      <path id="play-1" d="M11.474,17.808l7.168-4.543L11.474,8.723ZM10,8.268a1.17,1.17,0,0,1,1.879-1.033l7.787,4.934a1.248,1.248,0,0,1,0,2.193L11.879,19.3A1.169,1.169,0,0,1,10,18.263v-10Z" transform="translate(84.426 303.361)" fill="#fff" opacity="0.719"/>
+    </g>
+  </g>
+</svg>

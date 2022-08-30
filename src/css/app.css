@@ -1,0 +1,342 @@
+/* Gibson Font from Adobe TypeKit
+@import url("https://use.typekit.net/wai7wyq.css"); */
+
+/* iOS Cordova Tweak */
+.device-cordova.device-ios {
+  height: 100vh;
+}
+
+/* Custom color theme properties */
+:root {
+  --f7-theme-color: #321c34;
+  --f7-theme-color-rgb: 50, 28, 52;
+  --f7-theme-color-shade: #29162A;
+  --f7-theme-color-tint: #4c2a4f;
+  --f7-theme-color-contrast: #fff;
+  --f7-theme-color-btn-bg: #F6D797;
+  --f7-theme-color-toolbar-bg: #84282B;
+  --f7-theme-color-hr-line: #342235;
+  --f7-font-family: 'Gibson', sans-serif;
+  --f7-panel-width:  85%;
+  --dark-gray: #454F63;
+  --f7-block-inset-border-radius: 15px;
+  --f7-font-size: 15px !important;
+}
+
+/* Your app custom styles here */
+/* Your app custom styles here */
+.page {
+  background-color: var(--f7-theme-color) !important;
+  font-family: var(--f7-font-family);
+  padding: 40px 0px;
+}
+
+.text_color_bege {
+	color: #F6D797 !important;
+}
+
+.custom-modal-backdrop, 
+.actions-backdrop, 
+.dialog-backdrop, 
+.popover-backdrop, 
+.popup-backdrop, 
+.preloader-backdrop, 
+.sheet-backdrop, 
+.fab-backdrop {
+	height: calc(100% - 50px);
+}
+.tabbar .tab-link-active, .tabbar-labels .tab-link-active {
+	background: var(--f7-theme-color-toolbar-bg) !important;
+}
+.toolbar-bottom:after, .ios .toolbar-bottom-ios:after, .md .toolbar-bottom-md:after, .aurora .toolbar-bottom-aurora:after,
+.toolbar-bottom:before, .ios .toolbar-bottom-ios:before, .md .toolbar-bottom-md:before, .aurora .toolbar-bottom-aurora:before {
+	display: none;
+}
+.toolbar {
+  background-color: var(--f7-theme-color-toolbar-bg) !important;
+  color: var(--f7-theme-color-contrast) !important;
+}
+
+.tab-link {
+  padding-top: 18px !important;
+}
+
+.hr-style {
+  border: 1px solid var(--f7-theme-color-hr-line);
+  margin: 20px 0;
+}
+
+.page .devotional p {
+  color: var(--f7-theme-color-contrast) !important;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+.devotional .devotional-thumb {
+	height: 300px;
+	min-width: 60%;
+	max-width: 85%;
+	width: 80%;
+	background-position: center center !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+	border-radius: 3px;
+}
+
+.devotional .devotional-thumb .button_player {
+	position: relative !important;
+	top: 78% !important;
+	left: 80%;
+	border-radius: 50%;
+
+	box-shadow: 0 0 0 0 rgba(0, 0, 0, 1);
+	transform: scale(1);
+	animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+	0% {
+		transform: scale(0.95);
+		box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
+	}
+
+	70% {
+		transform: scale(1);
+		box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
+	}
+
+	100% {
+		transform: scale(0.95);
+		box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+	}
+}
+
+.container-devotional {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.devotional-info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+.devotional .read_more {
+	background: var(--f7-theme-color-toolbar-bg);
+	color: white;
+}
+.devotional-title h1 {
+  font-size: 18px;
+}
+.popup h3#inner_popup {
+	color: var(--f7-theme-color) !important;
+	font-size: 24px !important;
+}
+.popup h2 {
+	color: var(--f7-theme-color) !important;
+	margin: 50px 0 0;
+}
+.popup h3 {
+	margin: 30px 0 0;
+	color: #777;
+}
+.popup .back_devotional {
+}
+.popup.modal-in {
+	overflow-y: auto !important;
+}
+.popup .block p {
+	margin: 5px 0 20px !important;
+	color: #333;
+	font-size: 17px;
+	letter-spacing: 0.3px;
+}
+.popup-close i {
+	font-size: 20px;
+	margin-right: 5px;
+}
+.devotional #subtitle {
+	margin-top: 0 !important;
+}
+h3.subtitle_inner {
+	margin: 0 0 10px !important;
+	font-weight: bold;
+}
+
+.devotional-author h2 {
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+}
+.icone-size {
+	font-size: 20px;
+}
+.user-profile-pic {
+	width: 40px;
+	height: 40px;
+	border-radius: 10px;
+	background-position: center center !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+}
+.devotional-biography, 
+.about-artist, 
+.devotional-comments {
+  padding: 25px !important;
+  background-color: var(--f7-theme-color-shade) !important;
+}
+.devotional-comments {
+	margin-bottom: 10px;
+}
+.devotional .devotional-topics {
+	padding-left: 20px;
+}
+.devotional .devotional-topics p {
+	margin: 0 15px 15px 15px !important;
+	color: #ba9ebc !important;
+}
+.devotional .about-artist p {
+	color: #ba9ebc !important;
+}
+.devotional .devo-actions {
+	padding-top: 10px;
+}
+.devotional .devo-actions .col-25 {
+	margin: auto;
+}
+
+.devotional-biography .featured {
+	padding: 20px;
+	border-radius: 5px;
+	background-color: var(--f7-theme-color) !important;
+	margin-bottom: 30px;
+	border-radius: var(--f7-block-inset-border-radius);
+}
+.about-artist {
+	margin-bottom: 40px !important;
+}
+.devotional-biography p, 
+.devotional-topics > li, 
+.about-artist p {
+  color: var(--f7-theme-color-contrast) !important;
+}
+
+.artist-profile-btn {
+	margin-top: 10px;
+	background-color: var(--f7-theme-color-btn-bg) !important;
+	color: var(--f7-theme-color-tint) !important;
+	font-weight: bold;
+}
+
+.sheet-modal {
+	padding: 20px 30px;
+	margin-bottom: 50px;
+	border-radius: 20px 20px 0 0 !important;
+}
+.devotional .join_discussion {
+	font-weight: normal;
+	font-size: 25px;
+	color: #E2E2E2 !important;
+	padding: 0 20px;
+	margin: 0;
+}
+.devotional h4,
+div.sheet-modal.my-sheet-swipe-to-step.modal-in h4 {
+	color: #b1b1b1 !important;
+	font-weight: normal !important;
+}
+div.sheet-modal.my-sheet-swipe-to-step.modal-in h3 {
+	color: var(--dark-gray) !important;
+}
+.devotional .star-vote {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.devotional .star-vote .f7-icons {
+  font-size: 18px;
+}
+
+.devotional .block-custom-width {
+  width: 80% !important;
+  margin-top: 25px;
+}
+.accordion-opposite .accordion-item-toggle > .item-content:before, .accordion-opposite .accordion-item-toggle.item-content:before, .accordion-opposite .accordion-item > .item-content:before, .accordion-opposite .accordion-item > .item-link > .item-content:before, .accordion-opposite.links-list .accordion-item > a:before {
+	color: white !important;
+}
+.devotional ul,
+.devotional .simple-list,
+.devotional .accordion-opposite .devotional-topics,
+.devotional .accordion-opposite {
+	background: transparent;
+}
+.devotional li.accordion-item {
+	border-radius: var(--f7-block-inset-border-radius);
+    background-color: var(--f7-theme-color) !important;
+    margin-bottom: 10px;
+}
+.devotional .accordion-opposite li a {
+	color: white;
+}
+.devotional .conclusion_questions li {
+	color: #ba9ebc !important;
+	padding: 10px;
+}
+.devotional .accordion-opposite .devotional-topics {
+	padding: 0;
+}
+
+div.sheet-modal.my-sheet-swipe-to-step.modal-in .player-audio {
+  width: 100% !important;
+  height: auto !important;
+  background-color: var(--f7-theme-color-contrast) !important;
+  border-radius: 15px 15px 0px 0px !important;
+}
+#pause-btn {
+	display: none;
+}
+
+div.sheet-modal.my-sheet-swipe-to-step.modal-in #duration_slider{
+  -webkit-appearance: none;
+  margin: 0 auto;
+  width: 100% !important;
+  height: 8px;
+  background: #F1F2F5;
+  outline: none;
+  border-radius: 5px;
+}
+
+div.sheet-modal.my-sheet-swipe-to-step.modal-in input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--f7-theme-color-toolbar-bg);
+  cursor: pointer;
+}
+
+div.sheet-modal.my-sheet-swipe-to-step.modal-in #pause-btn {
+	position: relative;
+	bottom: -5px;
+	left: -2px;
+}
+
+.panel-right .page {
+	background: white !important;
+}
+
+.panel-right .page h1 {
+	padding-left: 20px;
+}
+.home h1 {
+  margin: 0; 
+  color: white;
+}

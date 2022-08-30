@@ -1,0 +1,20 @@
+<template>
+	<div class="page home" data-name="home">
+		<!-- Top Navbar -->
+		<div class="navbar">
+			<div class="navbar-inner">
+				<div class="right">
+				</div>
+			</div>
+		</div>
+
+		<div class="page-content">
+			<h1 class="text-align-center">Network page</h1>
+		</div>
+	</div>
+</template>
+<script>
+	export default () => {
+		return $render;
+	}
+</script>

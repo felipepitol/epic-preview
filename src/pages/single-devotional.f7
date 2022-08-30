@@ -1,0 +1,637 @@
+<template>
+  <div class="page devotional" data-name="devotional">
+    <div class="page-content">
+      <div class="container-devotional">
+        <div class="devotional-thumb" style=" background: url('../assets/img/devotional-cover.jpg') ">
+          <img class="button_player" src="../assets/img/button_player.svg" />
+        </div>
+        <div class="inset block-custom-width">
+          <div class="row no-margin no-gap">
+            <div class="col-20 padding-top">
+              <!-- <a href="#" class="button">
+                <img
+                  class="padding-left-half"
+                  src="./assets/img/share-mobile.svg"
+                />
+              </a> -->
+            </div>
+            <div class="col-60">
+              <div class="devotional-title">
+                <h1 class="text-color-white no-margin text-align-center">
+                  Treasured Possession
+                </h1>
+              </div>
+              <div class="devotional-author no-margin no-padding">
+                <h2 class="text-color-gray text-align-center no-margin no-padding">
+                  Samalie Byabajungu
+                </h2>
+              </div>
+            </div>
+
+            <div class="col-20 padding-top text-align-right">
+              <!-- <a href="#" class="button">
+                <i class="f7-icons text-color-white text-align-right"
+                  >ellipsis_vertical</i
+                >
+              </a> -->
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row block">
+        <a href="./assets/2-Exodus_Devotional_proof.pdf" download="2-Exodus_Devotional_proof.pdf" class="col button button-fill button-round artist-profile-btn external">Download the Devotional</a>
+      </div>
+
+      <div class="block block-strong inset devotional-biography">
+
+        <!-- START DEVO PASSAGE -->
+          <h3 id="subtitle" class="text_color_bege text-align-center">EXODUS 19:4-6</h3>
+          <p class="text-align-center featured"><i>
+            "You yourselves have seen what I did to Egypt, <br />
+            and how I carried you on eagles’ wings<br />and brought you to myself.<br />
+            Now if you obey me fully and keep my covenant,<br />
+            then out of all nations you will be<br />
+            my treasured possession.<br />
+            Although the whole earth is mine,<br />
+            you will be for me a kingdom of priests<br />
+            and a holy nation."<br /><br />
+            These are the words you are to speak to the Israelites.
+          </i></p>
+        <!-- END DEVO PASSAGE -->
+
+        <hr class="hr-style" />
+
+        <!-- START BREAKING DOWN -->
+          <h3 class="subtitle_inner text_color_bege text-align-center">Breaking Down the Text</h3>
+          <div class="list accordion-list accordion-opposite" style="margin-top: 0; margin-bottom: 0;"> 
+            <ul class="devotional-topics">
+              <li class="accordion-item">
+                <a class="item-content item-link" href="#">
+                  <div class="item-inner">
+                    <div class="item-title">
+                      <strong>VERSE 1 – Exo. 9:4</strong>
+                      <!-- <i>“You yourselves have seen what I did to Egypt, and how I carried you on eagles’ wings and brought you to myself.”</i> -->
+                    </div>
+                  </div>
+                </a>
+                <div class="accordion-item-content">
+                   <p>Here God reminds the Israelites how lovingly, mercifully and undeservingly He rescued them out of oppression. He did not need to repeat all the acts of kindness He performed to deliver them out of slavery; He simply heard their cry and felt compassion for them. While He could have justifi ed the justice and punishment He placed on Adam and Eve and all people, He instead chose to demonstrate His might and faithfulness, making a way for His people to be free where they never expected a way out.</p>
+                   <p>This verse also reveals how God prefers to bring people to Himself and reach out to them in love and Grace instead of executing His judgment. From raising up Moses to lead them out, to the opening and closing of the sea, God “brought the Israelites out of Egypt” to Himself, all of which became part of God’s Epic Love Story for His people (Exodus 12:51).</p>
+                </div>
+              </li>
+
+              <li class="accordion-item">
+                <a class="item-content item-link" href="#">
+                  <div class="item-inner">
+                    <div class="item-title">
+                      <strong>VERSE 2 – Exo. 19:5</strong>
+                      <!-- <i>“Now if you obey me fully and keep my covenant, then out of all nations you will be my treasured possession.”</i> -->
+                    </div>
+                  </div>
+                </a>
+                <div class="accordion-item-content">
+                   <p>Here God gives a promise to Abraham’s descendents with the condition of obedience. They had broken their personal and covenantal relationship with God so as to say, “We don’t need God nor do we trust Him.” Neither Abraham nor the Israelites trusted God, and they ultimately disobeyed God’s command to inhabit land He provided them. So, the only path that could lead the Israelites back to a right relationship with the Lord was turning in obedience and trusting Him implicitly, believing He is good and worthy and deserving of their love and worship.</p>
+                </div>
+              </li>
+
+              <li class="accordion-item">
+                <a class="item-content item-link" href="#">
+                  <div class="item-inner">
+                    <div class="item-title">
+                      <strong>VERSE 3 – Exo. 19:6</strong>
+                      <!-- <i>“Although the whole earth is mine, you will be for me a kingdom of priests and a holy nation.’ These are the words you are to speak to the Israelites”</i> -->
+                    </div>
+                  </div>
+                </a>
+                <div class="accordion-item-content">
+                   <p>Here God declares the Israelites holy by telling them they are set apart by the way they trust only in Him. This trust would bring them into a loving and resting relationship- a shalom- with God and show His love for all people of all nations. God delights in His chosen people as they walk in obedience by loving Him and loving each other. The loving relationship God makes possible with Israel exists only in receiving by faith this status of “priestly kingdom and a holy nation” so that all nations would know He is God!</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+        <!-- END BREAKING DOWN -->
+
+        <hr class="hr-style" />
+
+        <!-- START HISTORICAL TEXT -->
+          <h3 class="subtitle_inner text_color_bege text-align-center">Historical Cultural Background</h3>
+          <p>Both before and after God promised to bless His people through Abraham, God’s people had a history of moving so far away from Him and His ways that they repeatedly needed rescuing and cried out for mercy. So, even when God was justified to deliver the judgment of death to a rebellious, untrusting people, God slowed His anger and delayed His judgment. In His love and mercy He obliged the people’s cry, longing for His people to trust Him and return to a loving, family relationship with Him and each other.</p>
+
+          <a data-popup=".popup-historical" href="#" class="col button button-fill button-round read_more popup-open">READ MORE</a>
+          <!-- START POPUP TEXT -->
+            <div class="popup popup-historical">
+              <div class="block">
+                <a class=" button button-fill button-round back_devotional link popup-close" href="#"><i class="f7-icons">arrow_left</i> Back to devotional</a>
+                
+                <h3 id="inner_popup">Historical Cultural Background</h3>
+                <p>Both before and after God promised to bless His people through Abraham, God’s people had a history of moving so far away from Him and His ways that they repeatedly needed rescuing and cried out for mercy. So, even when God was justified to deliver the judgment of death to a rebellious, untrusting people, God slowed His anger and delayed His judgment. In His love and mercy He obliged the people’s cry, longing for His people to trust Him and return to a loving, family relationship with Him and each other.</p>
+                <p>As God promised to multiply Abraham’s descendants, He encouraged him to trust completely. He stated that He, Himself, was Abraham’s great reward. The promise and encouragement alone ought to have been the ultimate act God could do to help Abraham believe He will fulfill.</p>
+                <p>His promise to make him a great nation of people (Genesis 15:1). But, Abraham’s heart and mindset were affected by the same “corruption” that was continuing its course since Adam and Eve. Instead, Abraham expresses his discontent and mistrust by reminding God of his childlessness. So, Abraham’s life was already wrought with his selfish attempts to be great with no consideration of how amazingly merciful God had been to his ancestors from the beginning of time. But God, in His gentle and epic love, did not get angry or disappointed. He put Abraham in a deep sleep and in a vision revealed His epic love for His chosen people. Abraham’s vision helped clarify God’s faithfulness to His promise, even to the point of making a blood-sacrifice covenant, as was custom in those days. In the dream, God first reminds Abraham he is to lead His people to the land God had given him. Then, God, in the symbolized form of a furnace and a lamp (torch), passed through slaughtered animals that were cut in half... ALONE! Culturally, in that time, two parties entering a covenant together would sacrifice an animal, cutting it into two parts. The two would ceremoniously pass through the bloody two halves acknowledging that breaking this oath would result in the same sort of deserved death.</p>
+                <p>God, however, made a covenant FOR Abraham to keep HIS promise... a covenant so strong as to say, “If I break this promise, may I be slaughtered as these animals.” He made a covenant to and for Himself. No greater love has anyone who lays down His life for another. God is telling us in this Epic Love Story moment that His furnace, not our works, will make us holy. His lamp is the light of the world, and we are to look at none other! All He asks is that we obey Him in the midst of our broken world.</p>
+                <p>As people we deserve death for our going astray, but God loves us so much, He chooses to delay His judgment, allowing us to come to Him by faith. While delaying that judgment, He also shows mercy on His people, delivering them from themselves and the brokenness they create while trusting in anything or anyone else but God. “Just as God appeared as furnace and lamp, manifesting His covenant faithfulness to Abraham, so our covenant God continues to show Himself faithful and strong in the struggles of His people.”</p>
+
+                <a class=" button button-fill button-round back_devotional link popup-close" href="#"><i class="f7-icons">arrow_left</i> Back to devotional</a>
+              </div>
+            </div>
+          <!-- END POPUP TEXT -->
+        <!-- END HISTORICAL TEXT -->
+
+        <hr class="hr-style" />
+
+        <!-- START WHY THIS PASSAGE -->
+          <h3 class="subtitle_inner text_color_bege text-align-center">Why This Passage Was Chosen</h3>
+          <P>God’s covenant is not only relevant to His people as a whole but to individuals. His deliverance from trials and tribulations can be seen in the stories of individual people throughout the Bible. In these stories and our own, God understands every individual’s conflicts and struggles. In the midst of our heart’s turmoil, our faith is tested and refined as struggling individuals interact with a mighty and loving God, as though God’s “furnace” cleanses and purifies. Struggling people are blessed by the very presence and love of God, as though the lamp is directing their glance and their worship toward God, Who is the same yesterday, today and forever. Throughout time, He loves His people and fulfills His promises to them.</P>
+
+          <a data-popup=".popup-why" href="#" class="col button button-fill button-round read_more popup-open">READ MORE</a>
+          <!-- START POPUP TEXT -->
+            <div class="popup popup-why">
+              <div class="block">
+                <a class="button button-fill button-round back_devotional link popup-close" href="#"><i class="f7-icons">arrow_left</i> Back to devotional</a>
+                
+                <h3 id="inner_popup">Why This Passage Was Chosen</h3>
+                <p>God’s covenant is not only relevant to His people as a whole but to individuals. His deliverance from trials and tribulations can be seen in the stories of individual people throughout the Bible. In these stories and our own, God understands every individual’s conflicts and struggles. In the midst of our heart’s turmoil, our faith is tested and refined as struggling individuals interact with a mighty and loving God, as though God’s “furnace” cleanses and purifies. Struggling people are blessed by the very presence and love of God, as though the lamp is directing their glance and their worship toward God, Who is the same yesterday, today and forever. Throughout time, He loves His people and fulfills His promises to them.</p>
+
+                <h2>JOSEPH AND MOSES: TWO ILLUSTRATIONS AMONG MANY</h2>
+                <p>Before Exodus 19:4-6, two other recorded stories tell the struggles of two people who both struggled in profound ways, although they lived in different generations and different contexts.</p>
+
+                <h3>JOSEPH</h3>
+                <p>Joseph’s story reveals God’s unfolding Epic Love Story. Joseph was abandoned by his brothers and sold as a slave. Later he was falsely accused of rape andunjustly imprisoned. Yet, the record states he continued to believe God would keep His promise. Ultimately, God paved the way for Joseph to be one of the most powerful leaders of the Egyptians. Yet, Joseph never denied his faith in God, even to the point of loving and forgiving his brothers, who sold him into slavery. Ultimately, Joseph provided for the health and welfare of many nations, including the Israelites. Joseph trusted God while God’s “furnace” prepared His heart for God’s blessings. This allowed other nations to see God’s lamp light... God’s power and might and faithfulness to care for people.</p>
+
+                <h3>MOSES</h3>
+                <p>Years later after continuing to experience God’s blessings and guidance, the Israelites found themselves enslaved by Egypt, having to endure hardship and abuse. After Joseph’s story, Moses’ story becomes part of the beautiful chronology of how God’s furnace is part of His plan to bring us to Himself and love us epically. Moses had to experience the same cycle of trusting in the Lord during intense struggle in order to bring him to a point where he could shine God’s light. Even though Moses grew up privileged in the Pharoah’s home, he was punished for standing against the abuse of the Israelites, provoked to anger and murdered a man, later deceived by Egyptian magicians, hesitant to obey God’s call and speak the truth because of a speech impediment, and was challenged in many other ways, God continued to assure Moses of His might and His promise and His loving mercy to deliver Moses and His chosen people. God called Moses to deliver His people, and Moses responded reluctantly. Through that deliverance, God brought the Isralites through the Red Sea and promised to be with them by day in the form of a cloud and by night in the form of a fire. During this deliverance from slavery, the Israelites, along with Moses, were reminded of the light of the lamp of God.</p>
+                <p>In Exodus 15:11, we read a song of praise by Moses commemorating this lamp-light moment in his history as described all the way to Chapter 19: the deliverance of the Israelites by the opening of the Red Sea. You can read about this story in the Bible in Exodus, Chapters 15-19.</p>
+                <p>Who among the gods is like you, Lord? Who is like you— majestic in holiness, awesome in glory, working wonders?</p>
+                <p>Throughout both of these stories of “furnace and lamp”, God remains faithful to His promise to bless His people as a nation. We can remember God’s love for us when we identify with the furnace and lamp in each of these individual stories. Sometimes we, ourselves, have to be tried first, that being found faithful, we are entrusted with ministry and freedom.</p>
+                <p>Certainly, God’s furnace and light function to bring Himself the glory He deserves, and His epic love is always to bring us back to Himself.</p>
+
+                <h2>EXODUS 19:4-6 — ONE PAGE OF GOD’S COMPLETE EPIC LOVE STORY</h2>
+                <p>In writing this Journal Entry, I’ve discovered how easily I forget God’s promises and deny the good He has already done in my life. Instead, I creep into a mindset that only I can make myself happy and worthy. God’s character is so loving. He knows our hearts and tendency to turn away from Him, but in His infinite love, he chooses relationship with us over our obedience. He delays His wrath and punishment waiting for us to trust Him and delight in Him as much as He delights in us. In keeping His covenant with me, His Epic Love Story only asks me to trust and believe. When I believe Him, (like Abraham, Joseph and Moses) I allow the Holy Spirit to change me from the inside out and to see how God’s furnace cleanses and disciplines me in the midst of turmoil, and His lamp shines the way for me to receive God’s free gift of salvation and grace. The blessings that come from my faith will allow me to love God and love others while I worship Him today and for eternity.</p>
+
+                <a class="button button-fill button-round back_devotional link popup-close" href="#"><i class="f7-icons">arrow_left</i> Back to devotional</a>
+              </div>
+            </div>
+          <!-- END POPUP TEXT -->
+        <!-- END WHY THIS PASSAGE -->
+
+        <hr class="hr-style" />
+
+        <!-- START CONSLUSION -->
+          <h3 class="subtitle_inner text_color_bege text-align-center">Conclusion</h3>
+          <p>In your times of affliction, when you feel as though the furnace is burning too hot, do you feel like part of God’s priestly kingdom and holy nation? Reflect on the questions that follow and ask God to shine a light so you can see His epic love for you!</p>
+
+          <div class="list accordion-list accordion-opposite" style="margin-top: 0; margin-bottom: 0;"> 
+            <ul class="devotional-topics">
+              <li class="accordion-item">
+                <a class="item-content item-link" href="#">
+                  <div class="item-inner">
+                    <div class="item-title">
+                      <strong>Connecting to Myself</strong>
+                    </div>
+                  </div>
+                </a>
+                <div class="accordion-item-content">
+                   <div class="conclusion_questions">
+                    <ol>
+                      <li>Recall some of the “furnace and lamp” experiences the Israelits faced. Now, read Exodus 19:4-6 again. Make a list of difficult times you feel God carried you through on His wings. What did you learn about God’s promises?</li>
+                      <li>What did you learn about your obedience to God?</li>
+                      <li>How does one of your trials in question 1 compare to the trials of the Israelites’?</li>
+                      <li>How do God’s promises in these verses make you feel like a “treasured possession?” What happens in your heart when you do not believe God’s promises? What happens when you do believe?</li>
+                    </ol>
+                  </div>
+                </div>
+              </li>
+
+              <li class="accordion-item">
+                <a class="item-content item-link" href="#">
+                  <div class="item-inner">
+                    <div class="item-title">
+                      <strong>Connecting to Others</strong>
+                    </div>
+                  </div>
+                </a>
+                <div class="accordion-item-content">
+                   <div class="conclusion_questions">
+                    <ol>
+                      <li>It is so interesting to read in verse 6 that God considers His people a kingdom of priests. In that position, we do not need anyone to intercede for us on behalf of our relationship with God.</li>
+                      <li>Describe a person you believe lives out the idea that she or he is a priest in a holy nation, set apart to love God and love others. How does she or he live according to what God has promised?</li>
+                      <li>Are you interested in finding a local church or meeting an individual that could help you appreciate how you are becoming or could become a part of God’s Epic Love Story, adopted into God’s family? To find a church, search churches.goingfarther.net.</li>
+                      <li>What questions do you have about Exodus or God’s love for you?</li>
+                      <li>How are you moved in new ways to love others?</li>
+                    </ol>
+                  </div>
+                </div>
+              </li>
+
+              <li class="accordion-item">
+                <a class="item-content item-link" href="#">
+                  <div class="item-inner">
+                    <div class="item-title">
+                      <strong>Connecting to God</strong>
+                    </div>
+                  </div>
+                </a>
+                <div class="accordion-item-content">
+                   <div class="conclusion_questions">
+                    <ol>
+                      <li>How do the verses in this song help you understand God’s character and love?</li>
+                      <li>God promises to prosper Abraham, Joseph and Moses in ways completely different and extreme than what they could imagine. God prospered them by making them unique parts of His plan for blessing all people. How does your life reflect how you believe God wants to use you to be a blessing to others?</li>
+                      <li>Does your life reflect the cycle we see in the Scriptures, where God promises to love and bless, and you enjoy the blessings but begin to ignore God, and God shows you once again His faithfulness and gentleness, asking you to trust Him alone? Reflect more on that.</li>
+                    </ol>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        <!-- END CONCLUSION -->
+
+        <hr class="hr-style" />
+
+        <div class="row devo-actions">
+          <div class="col-25">
+            <a href="#" class="button">
+              <img src="./assets/img/icons-share-dark.svg" />
+            </a>
+          </div>
+          <div class="col-25 display-flex star-vote">
+            <i class="f7-icons text-color-white">star_fill</i>
+            <i class="f7-icons text-color-white">star_fill</i>
+            <i class="f7-icons text-color-white">star_fill</i>
+            <i class="f7-icons text-color-white">star_fill</i>
+            <i class="f7-icons text-color-gray">star</i>
+          </div>
+          <div class="col-25 display-flex padding-left">
+            <a href="#" class="link text-color-white">
+              256
+              <i class="f7-icons padding-left-half icone-size">chat_bubble_text</i>
+            </a>
+          </div>
+          <div class="col-25 display-flex">
+            <a href="#" class="link text-color-white favorite">
+              <strong>4K</strong>
+              <i class="f7-icons padding-left-half icone-size">heart</i>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="block block-strong inset about-artist">
+        <h3 class="text-color-white">About Samalie Byabajungu</h3>
+        <p>Samalie Nabwami Byabajungu is a Ugandan and a Muganda by tribe. She has been married to Henry Byabajungu for 6 years. They have two sons. She is a social worker by profession and runs a private events management business. She is Assistant Manager at Amazing Grace Hope Living Church in Nalyamagonja-Gayaza, Uganda, as well as serving part time as an Administrator at East African Gospel Academy, a local music academy.</p>
+        <div class="row">
+          <a
+            href="/profile/"
+            class="col button button-fill button-round artist-profile-btn"
+            >View Profile</a
+          >
+        </div>
+      </div>
+
+      <h3 class="join_discussion">Join discussion</h3>
+      <!-- COMMENTS -->
+        <div class="block block-strong inset devotional-comments" style="margin-top: 10px">
+          <!--Start Comment-->
+          <div class="row margin-top">
+            <div class="col-20">
+              <div class="user-profile-pic" style="background: url('./assets/img/avatar-01.png');"></div>
+            </div>
+            <div class="col-80 padding-left">
+              <h3 class="text-color-white no-margin no-padding">
+                Maxime Barbosa
+              </h3>
+              <h4 class="text-color-gray no-margin no-padding">8 Nov</h4>
+            </div>
+          </div>
+          <div class="row no-padding no-margin">
+            <div class="col no-padding margin-top">
+              <p class="text-color-white no-margin no-padding">
+                Good bless you!
+              </p>
+            </div>
+          </div>
+          <hr class="hr-style" />
+          <!--End Comment-->
+          <!-- Interact with comment -->
+          <div class="row margin-bottom padding-bottom">
+            <div class="col-50">
+              <a href="#">
+                <i class="f7-icons text-color-white icone-size">
+                  arrowshape_turn_up_left
+                </i>
+              </a>
+            </div>
+            <div class="col-50">
+              <div class="row">
+                <div class="col-50 text-color-white like">
+                  <i class="f7-icons text-color-white icone-size">hand_thumbsup</i> 256
+                </div>
+                <div class="col-50 text-color-white deslike">
+                  <i class="f7-icons text-color-white icone-size">hand_thumbsdown</i> 964
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- End of interact with comment -->
+          <!-- REPLY -->
+          <div class="row margin-top">
+            <div class="col-80 padding-right">
+              <h3 class="text-color-white no-margin no-padding text-align-right">
+                Samalie Byabajungu
+              </h3>
+              <h4 class="text-color-gray no-margin no-padding text-align-right">
+                8 Nov
+              </h4>
+            </div>
+            <div class="col-20">
+              <div class="user-profile-pic" style="background: url('./assets/img/avatar-02.png');"></div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <p class="text-color-white text-align-right">
+                Thank you, my friend.
+              </p>
+            </div>
+          </div>
+          <!-- END REPLY -->
+        </div>
+        <div class="block block-strong inset devotional-comments" style="margin-top: 10px">
+          <!--Start Comment-->
+          <div class="row margin-top">
+            <div class="col-20">
+              <div class="user-profile-pic" style="background: url('./assets/img/avatar-01.png');"></div>
+            </div>
+            <div class="col-80 padding-left">
+              <h3 class="text-color-white no-margin no-padding">
+                Maxime Barbosa
+              </h3>
+              <h4 class="text-color-gray no-margin no-padding">8 Nov</h4>
+            </div>
+          </div>
+          <div class="row no-padding no-margin">
+            <div class="col no-padding margin-top">
+              <p class="text-color-white no-margin no-padding">
+                Good bless you!
+              </p>
+            </div>
+          </div>
+          <hr class="hr-style" />
+          <!--End Comment-->
+          <!-- Interact with comment -->
+          <div class="row margin-bottom padding-bottom">
+            <div class="col-50">
+              <a href="#">
+                <i class="f7-icons text-color-white icone-size">
+                  arrowshape_turn_up_left
+                </i>
+              </a>
+            </div>
+            <div class="col-50">
+              <div class="row">
+                <div class="col-50 text-color-white like">
+                  <i class="f7-icons text-color-white icone-size">hand_thumbsup</i> 256
+                </div>
+                <div class="col-50 text-color-white deslike">
+                  <i class="f7-icons text-color-white icone-size">hand_thumbsdown</i> 964
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- End of interact with comment -->
+          <!-- REPLY -->
+          <div class="row margin-top">
+            <div class="col-80 padding-right">
+              <h3 class="text-color-white no-margin no-padding text-align-right">
+                Samalie Byabajungu
+              </h3>
+              <h4 class="text-color-gray no-margin no-padding text-align-right">
+                8 Nov
+              </h4>
+            </div>
+            <div class="col-20">
+              <div class="user-profile-pic" style="background: url('./assets/img/avatar-02.png');"></div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <p class="text-color-white text-align-right">
+                Thank you, my friend.
+              </p>
+            </div>
+          </div>
+          <!-- END REPLY -->
+        </div>
+      <!--  -->
+
+
+
+      <!-- PLAYER -->
+      <div id="" class="sheet-modal my-sheet-swipe-to-step" style="height:auto; --f7-sheet-bg-color: #fff;">
+        <div class="sheet-modal-inner">
+          <div class="sheet-modal-swipe-step">
+            
+            <div class="row margin-top padding-left">
+              <div class="col-10">
+                <div class="user-profile-pic" style="background: url('./assets/img/avatar-02.png');"></div>
+              </div>
+              <div class="col-60 padding-left">
+                <h3 class="no-margin no-padding">Treasured Possession</h3>
+                <h4 class="no-margin no-padding">Samalie Byabajungu</h4>
+              </div>
+              <div class="col-30">
+                <div class="row">
+                  <div class="col-50 text-color-gray">
+                    <a href="#" class="button">
+                      <img src="./assets/img/share-devotional-audio.svg" />
+                    </a>
+                  </div>
+                  <div class="col-50 text-color-gray">
+                    <a href="#" class="button" id="close_player">
+                      <i class="f7-icons text-color-gray">chevron_down</i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row margin-top">
+              <div class="col">
+                <div class="duration">
+                  <input
+                    type="range"
+                    min="0"
+                    max="100"
+                    value="0"
+                    id="duration_slider"
+                    onchange="change_duration()"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="row margin-top">
+              <div class="col-33">
+                <a href="#" class="button" id="rew-btn">
+                  <i class="f7-icons">backward_end_alt</i>
+                </a>
+              </div>
+              <div class="col-33">
+                <a href="#" class="button" id="play-btn">
+                  <i class="f7-icons">arrowtriangle_right</i>
+                </a>
+                <a href="#" class="button" id="pause-btn">
+                  <i class="f7-icons">pause_fill</i>
+                </a>
+              </div>
+              <div class="col-33">
+                <a href="#" class="button" id="ff-btn">
+                  <i class="f7-icons">forward</i>
+                </a>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+<script>
+  export default (props, { $f7, $el,$on,$store,$onMounted,$theme}) => {
+
+    let sheet;
+
+    var player = {
+      track: {
+        src: './assets/What God Can Do in Daily Devotions – John Piper.mp3',
+        title: '',
+        volume: 0.8
+      },
+      media: null,
+      status: {
+        '0': 'MEDIA_NONE',
+        '1': 'MEDIA_STARTING',
+        '2': 'MEDIA_RUNNING',
+        '3': 'MEDIA_PAUSED',
+        '4': 'MEDIA_STOPPED',
+      },
+      err: {
+        '1': 'MEDIA_ERR_ABORTED',
+        '2': 'MEDIA_ERR_NETWORK',
+        '3': 'MEDIA_ERR_DECODE',
+        '4': 'MEDIA_ERR_NONE_SUPORTED',
+      },
+      init: function(){
+        document.addEventListener('deviceready', player.ready, false);
+      },
+      ready: function(){
+        player.addListeners();
+        let src = player.track.src;
+        player.media = new Media(src, player.ftw, player.wtf, player.statusChange);
+      },
+      ftw: function(){
+        //Sucess creating the media object and playing, stopping, etc.
+        console.log('Media object created and playing');
+      },
+      wtf: function(err){
+        //Failure of playback of the media object
+        console.warn('Media object failed to play', err);
+      },
+      statusChange: function(status){
+        //Status change of the media object
+        console.log('Media status is now ' + player.status[status]);
+      },
+      addListeners: function(){
+        document.querySelector('#play-btn').addEventListener('click', player.play);
+        document.querySelector('#pause-btn').addEventListener('click', player.pause);
+        document.querySelector('#rew-btn').addEventListener('click', player.rewind);
+        document.querySelector('#ff-btn').addEventListener('click', player.fastForward);
+        document.addEventListener('pause', () => {
+          player.media.release();
+        });
+      },
+      play: function(){
+        player.media.play();
+      },
+      pause: function(){
+        player.media.pause();
+      },
+      rewind: function(){
+        let pos = player.media.getCurrentPosition((pos) => {
+          let dur = player.media.getDuration();
+          console.log('Current position is ', pos);
+          console.log('Duration is ', dur);
+          pos =+ 10;
+          if (pos < dur) {
+            player.media.seekTo( pos * 1000);
+          }
+        });
+      },
+      fastForward: function(){
+        let pos = player.media.getCurrentPosition((pos)=>{
+          pos -= 10;
+          if (pos > 0) {
+            player.media.seekTo( pos * 1000 );
+          } else {
+            player.media.seekTo(0);
+          }
+        });
+      }
+    }
+
+    player.init();
+    $f7.$(document).on('click','.devotional-thumb',function(ev){
+      console.log('player open');
+      sheet.open();
+    });
+    $f7.$(document).on('click','#close_player',function(ev){
+      console.log('player close');
+      sheet.close();
+    });
+
+    $f7.$(document).on('click','#play-btn',function(ev){
+      console.log('play');
+      $f7.$(this).hide();
+      $f7.$('#pause-btn').show();
+    });
+
+    $f7.$(document).on('click','#pause-btn',function(ev){
+      console.log('rew');
+      $f7.$(this).hide();
+      $f7.$('#play-btn').show();
+    });
+
+    // HEART ICON
+    $f7.$(document).on('click', '.favorite',function(ev){
+        var text  = $f7.$(this).find('i');    
+        text.text(text.text() == 'heart' ? 'heart_fill' : 'heart');
+
+        $f7.$(this).toggleClass('active_item');
+    });
+
+    // LIKE
+    $f7.$(document).on('click', '.like',function(ev){
+        var text  = $f7.$(this).find('i');    
+        text.text(text.text() == 'hand_thumbsup' ? 'hand_thumbsup_fill' : 'hand_thumbsup');
+
+        $f7.$(this).toggleClass('active_item');
+    });
+
+    // DESLIKE
+    $f7.$(document).on('click', '.deslike',function(ev){
+        var text  = $f7.$(this).find('i');    
+        text.text(text.text() == 'hand_thumbsdown' ? 'hand_thumbsdown_fill' : 'hand_thumbsdown');
+
+        $f7.$(this).toggleClass('active_item');
+    });
+
+    $on('pageInit', () => {
+       sheet = $f7.sheet.create({
+        el: '.my-sheet-swipe-to-step',
+        swipeToClose: true,
+        swipeToStep: false,
+        backdrop: true,
+      });
+    });
+
+    return $render;
+  };
+</script>
